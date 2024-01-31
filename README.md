@@ -1,3 +1,3 @@
 # let-s-see
-trying to learn.
+Trying to learn.
 Author - itsMeSou
