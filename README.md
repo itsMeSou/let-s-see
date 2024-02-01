@@ -1,4 +1,4 @@
 # let-s-see
 Trying to learn.
 <br>
-Author - itsMeSou.
+Author - itsMeSou(Damn).
